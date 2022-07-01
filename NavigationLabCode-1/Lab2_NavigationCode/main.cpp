@@ -34,7 +34,6 @@ int main(int argc, char *argv[]) {
     nav->readNetwork(mapName);
     queue<int> thePath = nav->computeShortestPath(startInd, endInd);
     nav->printPath(thePath);
-
     // make a call that creats a Map.bmp, which shows the shortest path computed through the road network
     writeImage2File(thePath, mapName);
 
