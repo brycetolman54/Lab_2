@@ -1,0 +1,14 @@
+//
+// Created by bat20 on 6/30/2022.
+//
+
+#ifndef NAVIGATIONLABCODE_1_NAVIGATION_H
+#define NAVIGATIONLABCODE_1_NAVIGATION_H
+
+
+class Navigation {
+
+};
+
+
+#endif //NAVIGATIONLABCODE_1_NAVIGATION_H
